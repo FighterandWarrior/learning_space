@@ -1,11 +1,11 @@
-# learning_space
-Repo for scipts and code learing
+# learning space
+Repo for scripts and code learning
 
-## Code lanuages
+## Code languages
   - JS
   - HTML
 
 ### Projects in JS
-  - Convert temp - kelvin -> farhenheit -> celsius
+  - Convert temp - kelvin -> fahrenheit -> celsius
   - Magic 8 Ball
 
