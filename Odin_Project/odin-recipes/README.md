@@ -6,4 +6,5 @@ The pages will contains skills learned.
 Elements that will be used in this folder:
   - tags
   - lists
+  - html boilerplate
   
