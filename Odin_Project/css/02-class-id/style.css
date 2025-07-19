@@ -1,0 +1,23 @@
+.odd {
+  background-color: palevioletred;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd_font_change {
+  font-size: 24px;
+  background-color: palevioletred;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#two {
+  color: blue;
+  font-size: 36px;
+}
+
+#four {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+
+
+}
