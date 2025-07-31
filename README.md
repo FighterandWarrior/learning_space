@@ -1,9 +1,18 @@
 # learning space
-Repo for scripts and code learning
+Repo to use when learing different languages
 
-## Code languages
+# Currently learning
+  - CSS
+  - HTML
+
+## Current learning Ressources 
+  - The Odin Project [https://www.theodinproject.com/paths/foundations/courses/foundations]
+  - 
+
+## Languages in the repo
   - JS
   - HTML
+  - CSS
 
 ### Projects in JS
   - Convert temp - kelvin -> fahrenheit -> celsius
